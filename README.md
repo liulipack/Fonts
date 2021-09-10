@@ -102,11 +102,11 @@ Google | [Noto Sans CJK / 无虚缺字宋体统一码](#Noto_Serif_CJK) | 宋体
 
 ## LXGW WenKai / 霞鹜文楷<span id="LXGW_WenKai"></div>
 
-![OSFCC](https://raw.githubusercontent.com/liulipack/Fonts/master/img/Font Show_Xiaolai SC_Intro.png)
-![OSFCC](https://raw.githubusercontent.com/liulipack/Fonts/master/img/Font Show_Xiaolai SC_Design.png)
+![](https://raw.githubusercontent.com/liulipack/Fonts/master/img/Font Show_Xiaolai SC_Intro.png)
+![](https://raw.githubusercontent.com/liulipack/Fonts/master/img/Font Show_Xiaolai SC_Design.png)
 
 ### Mono / 等宽
-![OSFCC](https://raw.githubusercontent.com/liulipack/Fonts/master/img/Font Show_Xiaolai Mono SC_Design.png)
+![]("https://raw.githubusercontent.com/liulipack/Fonts/master/img/Font Show_Xiaolai Mono SC_Design.png")
 
 它基于繁体中文字体内海字体与日文字体濑户字体，目的是适配简体中文。
 
