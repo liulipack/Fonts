@@ -45,8 +45,8 @@ Google | [Noto Sans CJK / 无虚缺字宋体统一码](#Noto_Serif_CJK) | 宋体
 
 ### SC / 简体中文
 
-![字体名与字体字重](img/Font Show_Noto Sans CJK SC_Intro.png)
-![字体设计](img/Font Show_Noto Sans CJK SC_Design.png)
+![字体名与字体字重](https://raw.githubusercontent.com/liulipack/Fonts/master/imgs/Font Show_Noto Sans CJK SC_Intro.png)
+![字体设计](https://raw.githubusercontent.com/liulipack/Fonts/master/imgs/Font Show_Noto Sans CJK SC_Design.png)
 
 授权协议 SIL Open Font License 1.1
 适配字符集 GBK 100%
@@ -55,8 +55,8 @@ Google | [Noto Sans CJK / 无虚缺字宋体统一码](#Noto_Serif_CJK) | 宋体
 
 ### TC / 繁體中文
 
-![字体名与字体字重](img/Font Show_Noto Sans CJK TC_Intro.png)
-![字体设计](img/Font Show_Noto Sans CJK TC_Design.png)
+![字体名与字体字重](https://raw.githubusercontent.com/liulipack/Fonts/master/imgs/Font Show_Noto Sans CJK TC_Intro.png)
+![字体设计](https://raw.githubusercontent.com/liulipack/Fonts/master/imgs/Font Show_Noto Sans CJK TC_Design.png)
 
 授权协议 SIL Open Font License 1.1
 适配字符集 GBK 100%
@@ -67,8 +67,8 @@ Google | [Noto Sans CJK / 无虚缺字宋体统一码](#Noto_Serif_CJK) | 宋体
 
 ### SC / 简体中文
 
-![字体名与字体字重](img/Font Show_Noto Serif CJK SC_Intro.png)
-![字体设计](img/Font Show_Noto Serif CJK SC_Design.png)
+![字体名与字体字重](https://raw.githubusercontent.com/liulipack/Fonts/master/imgs/Font Show_Noto Serif CJK SC_Intro.png)
+![字体设计](https://raw.githubusercontent.com/liulipack/Fonts/master/imgs/Font Show_Noto Serif CJK SC_Design.png)
 
 授权协议 SIL Open Font License 1.1
 适配字符集 GBK 100%
@@ -77,8 +77,8 @@ Google | [Noto Sans CJK / 无虚缺字宋体统一码](#Noto_Serif_CJK) | 宋体
 
 ### TC / 繁體中文
 
-![字体名与字体字重](img/Font Show_Noto Serif CJK TC_Intro.png)
-![字体设计](img/Font Show_Noto Serif CJK TC_Design.png)
+![字体名与字体字重](imgs/Font Show_Noto Serif CJK TC_Intro.png)
+![字体设计](imgs/Font Show_Noto Serif CJK TC_Design.png)
 
 授权协议 SIL Open Font License 1.1
 适配字符集 GBK 100%
@@ -87,11 +87,11 @@ Google | [Noto Sans CJK / 无虚缺字宋体统一码](#Noto_Serif_CJK) | 宋体
 
 ## Xiaolai Font / 小赖字体<span id="Xiaolai"></div>
 
-![字体名与字体字重](img/Font Show_Xiaolai SC_Intro.png)
-![字体设计](img/Font Show_Xiaolai SC_Design.png)
+![字体名与字体字重](imgs/Font Show_Xiaolai SC_Intro.png)
+![字体设计](https://raw.githubusercontent.com/liulipack/Fonts/master/imgs/Font Show_Xiaolai SC_Design.png)
 
 ### Mono / 等宽
-![字体名与字体字重](img/Font Show_Xiaolai Mono SC_Intro.png)
+![字体名与字体字重](https://raw.githubusercontent.com/liulipack/Fonts/master/imgs/Font Show_Xiaolai Mono SC_Intro.png)
 
 它基于繁体中文字体内海字体与日文字体濑户字体，目的是适配简体中文。
 
@@ -102,11 +102,11 @@ Google | [Noto Sans CJK / 无虚缺字宋体统一码](#Noto_Serif_CJK) | 宋体
 
 ## LXGW WenKai / 霞鹜文楷<span id="LXGW_WenKai"></div>
 
-![字体名与字体字重](https://raw.githubusercontent.com/liulipack/Fonts/master/img/Font%20Show_Xiaolai%20SC_Intro.png)
-![字体设计](https://raw.githubusercontent.com/liulipack/Fonts/master/img/Fon%20Show_Xiaolai%20SC_Design.png)
+![字体名与字体字重](https://raw.githubusercontent.com/liulipack/Fonts/master/imgs/Font%20Show_Xiaolai%20SC_Intro.png)
+![字体设计](https://raw.githubusercontent.com/liulipack/Fonts/master/imgs/Fon%20Show_Xiaolai%20SC_Design.png)
 
 ### Mono / 等宽
-![字体名与字体字重](https://raw.githubusercontent.com/liulipack/Fonts/master/img/Font%20Show_Xiaolai%20Mono%20SC_Design.png)
+![字体名与字体字重](https://raw.githubusercontent.com/liulipack/Fonts/master/imgs/Font%20Show_Xiaolai%20Mono%20SC_Design.png)
 
 它基于繁体中文字体内海字体与日文字体濑户字体，目的是适配简体中文。
 
