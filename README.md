@@ -5,7 +5,7 @@
 ## 术语统一
 
 描述 | 原文 | 译文 | 描述
-| - | - | -
+| - | - | - | -
 字重-100 | 纤 | Thin /Hairline
 字重-200 | 特纤 | Extra-Light / Ultra-Light
 字重-300 | 轻 | Light
