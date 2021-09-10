@@ -9,7 +9,7 @@
 字重-100 | 纤 | Thin /Hairline
 字重-200 | 特纤 | Extra-Light / Ultra-Light
 字重-300 | 轻 | Light
-字重-350 | 半亲  | Demi-Light
+字重-350 | 半轻 | Demi-Light
 字重-400 | 普 | Regula
 字重-500 | 中 | Medium
 字重-600 | 半粗 | Demi-Bold / Semi-Bold
@@ -88,10 +88,8 @@ Google | [Noto Sans CJK / 无虚缺字宋体统一码](#Noto_Serif_CJK) | 宋体
 ## Xiaolai Font / 小赖字体<span id="Xiaolai"></div>
 
 ![字体名与字体字重](https://raw.githubusercontent.com/liulipack/Fonts/master/imgs/Font%20Show_Xiaolai%20SC_Intro.png)
+![字体名与字体字重-等宽](https://raw.githubusercontent.com/liulipack/Fonts/master/imgs/Font%20Show_Xiaolai%20Mono%20SC_Intro.png)
 ![字体设计](https://raw.githubusercontent.com/liulipack/Fonts/master/imgs/Font%20Show_Xiaolai%20SC_Design.png)
-
-### Mono / 等宽
-![字体名与字体字重](https://raw.githubusercontent.com/liulipack/Fonts/master/imgs/Font%20Show_Xiaolai%20Mono%20SC_Intro.png)
 
 它基于繁体中文字体内海字体与日文字体濑户字体，目的是适配简体中文。
 
@@ -102,11 +100,9 @@ Google | [Noto Sans CJK / 无虚缺字宋体统一码](#Noto_Serif_CJK) | 宋体
 
 ## LXGW WenKai / 霞鹜文楷<span id="LXGW_WenKai"></div>
 
-![字体名与字体字重](https://raw.githubusercontent.com/liulipack/Fonts/master/imgs/Font%20Show_Xiaolai%20SC_Intro.png)
-![字体设计](https://raw.githubusercontent.com/liulipack/Fonts/master/imgs/Font%20Show_Xiaolai%20SC_Design.png)
-
-### Mono / 等宽
-![字体名与字体字重](https://raw.githubusercontent.com/liulipack/Fonts/master/imgs/Font%20Show_Xiaolai%20Mono%20SC_Intro.png)
+![字体名与字体字重](https://raw.githubusercontent.com/liulipack/Fonts/master/imgs/Font%20Show_LXGW%20WenKai_Intro.png)
+![字体名与字体字重-等宽](https://raw.githubusercontent.com/liulipack/Fonts/master/imgs/Font%20Show_LXGW%20WenKai%20Mono_Intro.png)
+![字体设计](https://raw.githubusercontent.com/liulipack/Fonts/master/imgs/Font%20Show_LXGW%20WenKai_Design.png)
 
 它基于繁体中文字体内海字体与日文字体濑户字体，目的是适配简体中文。
 
