@@ -102,15 +102,15 @@ Google | [Noto Sans CJK / 无虚缺字宋体统一码](#Noto_Serif_CJK) | 宋体
 
 ## LXGW WenKai / 霞鹜文楷<span id="LXGW_WenKai"></div>
 
-![](img/Font Show_Xiaolai SC_Intro.png)
-![](img/Font Show_Xiaolai SC_Design.png)
+![OSFCC](https://raw.githubusercontent.com/liulipack/Fonts/master/img/Font Show_Xiaolai SC_Intro.png)
+![OSFCC](https://raw.githubusercontent.com/liulipack/Fonts/master/img/Font Show_Xiaolai SC_Design.png)
 
 ### Mono / 等宽
-![](img/Font Show_Xiaolai Mono SC_Intro.png)
+![OSFCC](https://raw.githubusercontent.com/liulipack/Fonts/master/img/Font Show_Xiaolai Mono SC_Design.png)
 
 它基于繁体中文字体内海字体与日文字体濑户字体，目的是适配简体中文。
 
 授权协议 SIL Open Font License 1.1
-适配字符集 GBK 100%
+适配字符集 GBK 63.04%(Big5 67.46%)
 
 **获取** https://github.com/lxgw/LxgwWenKai
