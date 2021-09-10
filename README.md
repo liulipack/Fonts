@@ -5,7 +5,7 @@
 ## 术语统一
 
 描述 | 原文 | 译文 | 描述
-- | - | -
+| - | - | -
 字重-100 | 纤 | Thin /Hairline
 字重-200 | 特纤 | Extra-Light / Ultra-Light
 字重-300 | 轻 | Light
@@ -22,7 +22,7 @@
 ## 字体
 
 创作者 | 字体名 | 风格 | 字重及比例数 | 授权协议 | 涵盖字体集 | 专项适配
-- | - | - | - | - | - | -
+| - | - | - | - | - | - | -
 Google | [Noto Sans CJK / 无虚缺字黑体统一码](#Noto_Sans_CJK) | 黑体 | 9 | SIL Open Font License 1.1 | GBK 100% | 简中、繁中、日、韩。
 Google | [Noto Sans CJK / 无虚缺字宋体统一码](#Noto_Serif_CJK) | 宋体 | 7 | SIL Open Font License 1.1 | GBK 100% | 简中、繁中、日、韩。
 [霞鹜](https://github.com/lxgw) | [小赖字体](#Xiaolai) | 艺术体 | 2 | SIL Open Font License 1.1 | GBK 100% | 简中、日。
@@ -31,7 +31,7 @@ Google | [Noto Sans CJK / 无虚缺字宋体统一码](#Noto_Serif_CJK) | 宋体
 ## 图片排版
 
 描述 | 位置 | 配色(高饱和, 低饱和) | 不透明度 | 字号 | 字重 | 备注
-- | - | - | - | - | - | -
+| - | - | - | - | - | - | -
 介绍-字体名-中文 | 从下往上 572px(540+32) | #fff, #000 | 100%, 87% | 125px | Regular | -
 介绍-字体名-英文 | - | - | - | 100px | Light | -
 介绍-字重 | 从上往下 572px | - | 54% | 125px | 根据字重选择 | 如只有一种字重可隐藏，并将字体名完全居中。
