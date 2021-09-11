@@ -6,8 +6,8 @@
 
 描述 | 原文 | 译文 | 描述
 | - | - | - | -
-字重-100 | 纤 | Thin /Hairline
-字重-200 | 特纤 | Extra-Light / Ultra-Light
+字重-100 | 纤 | Thin / Hairline / ExtraLight
+字重-200 | 极纤 | Extra-Light / Ultra-Light
 字重-300 | 轻 | Light
 字重-350 | 半轻 | Demi-Light
 字重-400 | 普 | Regula
@@ -32,64 +32,50 @@ Google | [Noto Sans CJK / 无虚缺字宋体统一码](#Noto_Serif_CJK) | 宋体
 
 描述 | 位置 | 配色(高饱和, 低饱和) | 不透明度 | 字号 | 字重 | 备注
 | - | - | - | - | - | - | -
-介绍-字体名-中文 | 从下往上 572px(540+32) | #fff, #000 | 100%, 87% | 125px | Regular | -
-介绍-字体名-英文 | - | - | - | 100px | Light | -
-介绍-字重 | 从上往下 572px | - | 54% | 125px | 根据字重选择 | 如只有一种字重可隐藏，并将字体名完全居中。
-介绍-参数 | 右下角向内各偏移 16px | - | - | 34px | Regular | 字符集覆盖采用`GBK [百分比]%(Big5 [百分比]%)`形式书写。如果涵盖 100% 的 GBK 字符集则无需书写上述格式括号中内容。
-设计-上半 | 从下往上 604px(540+64) | - | - | 125px | Regular | -
-设计-下半 | 从上往下 604px | - | - | 125px | Regular | -
+介绍-字体名-中文 | 从下往上 572px(540+32) | #fff, #000 | 100%, 87% | 116px | Regular | -
+介绍-字体名-英文 | ~ | ~ | ~ | 76px | Light | -
+介绍-字重 | 从上往下 572px | ~ | 54% | 126px | 根据字重选择 | 如只有一种字重可隐藏，并将字体名完全居中。
+介绍-参数 | 右下角向内各偏移 16px | ~ | ~ | 34px | Regular | 字符集覆盖采用`GBK [百分比]%(Big5 [百分比]%)`形式书写。如果涵盖 100% 的 GBK 字符集则无需书写上述格式括号中内容。
+设计-上半 | 从下往上 604px(540+64) | ~ | ~ | 150px | Regular | -
+设计-下半 | 从上往下 604px | ~ | ~ | ~ | ~ | -
 
 # 介绍
 
 ## Noto Sans CJK / 无虚缺字黑体统一码<span id="Noto_Sans_CJK"></span>
 
-### SC / 简体中文
+![简中_介绍](imgs/Noto%20Sans%20CJK%20SC_Intro.png)
+![繁中_介紹](imgs/Noto%20Sans%20CJK%20TC_Intro.png)
+![简中_等宽_介绍](imgs/Noto%20Sans%20Mono%20CJK%20SC_Intro.png)
+![繁中_等宽_介紹](imgs/Noto%20Sans%20Mono%20CJK%20TC_Intro.png)
+![简中_设计](imgs/Noto%20Sans%20CJK%20SC_Design.png)
 
-![字体名与字体字重](https://raw.githubusercontent.com/liulipack/Fonts/master/imgs/Font%20Show_Noto%20Sans%20CJK%20SC_Intro.png)
-![字体设计](https://raw.githubusercontent.com/liulipack/Fonts/master/imgs/Font%20Show_Noto%20Sans%20CJK%20SC_Design.png)
-
-授权协议 SIL Open Font License 1.1
-适配字符集 GBK 100%
-
-**获取** https://www.google.com/get/noto/#sans-hans
-
-### TC / 繁體中文
-
-![字体名与字体字重](https://raw.githubusercontent.com/liulipack/Fonts/master/imgs/Font%20Show_Noto%20Sans%20CJK%20TC_Intro.png)
-![字体设计](https://raw.githubusercontent.com/liulipack/Fonts/master/imgs/Font%20Show_Noto%20Sans%20CJK%20TC_Design.png)
+由谷歌推出的无虚缺字系列字体的黑体部分。
 
 授权协议 SIL Open Font License 1.1
 适配字符集 GBK 100%
 
-**获取** https://www.google.com/get/noto/#sans-hant
+**获取**
+
+简体中文 https://www.google.com/get/noto/#sans-hans  
+繁體中文 https://www.google.com/get/noto/#sans-hant
 
 ## Noto Serif CJK / 无虚缺字宋体统一码<span id="Noto_Serif_CJK"></span>
 
-### SC / 简体中文
+![简中_介绍](imgs/Noto%20Serif%20CJK%20SC_Intro.png)
+![繁中_介紹](imgs/Noto%20Serif%20CJK%20TC_Intro.png)
+![简中_设计](imgs/Noto%20Serif%20CJK%20SC_Design.png)
 
-![字体名与字体字重](https://raw.githubusercontent.com/liulipack/Fonts/master/imgs/Font%20Show_Noto%20Serif%20CJK%20SC_Intro.png)
-![字体设计](https://raw.githubusercontent.com/liulipack/Fonts/master/imgs/Font%20Show_Noto%20Serif%20CJK%20SC_Design.png)
+由谷歌推出的无虚缺字系列字体的宋体部分。
 
-授权协议 SIL Open Font License 1.1
-适配字符集 GBK 100%
+**获取**
+简体中文 https://www.google.com/get/noto/#serif-hans  
+繁體中文 https://www.google.com/get/noto/#serif-hant
 
-**获取** https://www.google.com/get/noto/#serif-hans
+## Xiaolai / 小赖字体<span id="Xiaolai"></span>
 
-### TC / 繁體中文
-
-![字体名与字体字重](imgs/Font Show_Noto Serif CJK TC_Intro.png)
-![字体设计](imgs/Font Show_Noto Serif CJK TC_Design.png)
-
-授权协议 SIL Open Font License 1.1
-适配字符集 GBK 100%
-
-**获取** https://www.google.com/get/noto/#serif-hant
-
-## Xiaolai Font / 小赖字体<span id="Xiaolai"></div>
-
-![字体名与字体字重](https://raw.githubusercontent.com/liulipack/Fonts/master/imgs/Font%20Show_Xiaolai%20SC_Intro.png)
-![字体名与字体字重-等宽](https://raw.githubusercontent.com/liulipack/Fonts/master/imgs/Font%20Show_Xiaolai%20Mono%20SC_Intro.png)
-![字体设计](https://raw.githubusercontent.com/liulipack/Fonts/master/imgs/Font%20Show_Xiaolai%20SC_Design.png)
+![简中_介绍](imgs/Xiaolai%20Mono%20SC_Intro.png)
+![简中_等宽_介绍](imgs/Xiaolai%20Mono%20SC_Intro.png)
+![字体设计](imgs/Xiaolai%20SC_Design.png)
 
 它基于繁体中文字体内海字体与日文字体濑户字体，目的是适配简体中文。
 
@@ -98,15 +84,22 @@ Google | [Noto Sans CJK / 无虚缺字宋体统一码](#Noto_Serif_CJK) | 宋体
 
 **获取** https://github.com/lxgw/kose-font
 
-## LXGW WenKai / 霞鹜文楷<span id="LXGW_WenKai"></div>
+## LXGW WenKai / 霞鹜文楷<span id="LXGW_WenKai"></span>
 
-![字体名与字体字重](https://raw.githubusercontent.com/liulipack/Fonts/master/imgs/Font%20Show_LXGW%20WenKai_Intro.png)
-![字体名与字体字重-等宽](https://raw.githubusercontent.com/liulipack/Fonts/master/imgs/Font%20Show_LXGW%20WenKai%20Mono_Intro.png)
-![字体设计](https://raw.githubusercontent.com/liulipack/Fonts/master/imgs/Font%20Show_LXGW%20WenKai_Design.png)
+![字体名与字体字重](imgs/LXGW%20WenKai_Intro.png)
+![字体名与字体字重-等宽](imgs/LXGW%20WenKai%20Mono_Intro.png)
+![字体设计](imgs/LXGW%20WenKai_Design.png)
 
 它基于繁体中文字体内海字体与日文字体濑户字体，目的是适配简体中文。
 
-授权协议 SIL Open Font License 1.1
-适配字符集 GBK 63.04%(Big5 67.46%)
+**获取** https://github.com/lxgw/LxgwWenKai
+
+## LXGW WenKai / 霞鹜文楷<span id="LXGW_WenKai"></span>
+
+![字体名与字体字重](imgs/LXGW%20WenKai_Intro.png)
+![字体名与字体字重-等宽](imgs/LXGW%20WenKai%20Mono_Intro.png)
+![字体设计](imgs/LXGW%20WenKai_Design.png)
+
+它基于繁体中文字体内海字体与日文字体濑户字体，目的是适配简体中文。
 
 **获取** https://github.com/lxgw/LxgwWenKai
