@@ -45,11 +45,11 @@ Google | [Noto Sans CJK / 无虚缺字宋体统一码](#Noto_Serif_CJK) | 宋体
 
 ## Noto Sans CJK / 无虚缺字黑体统一码<span id="Noto_Sans_CJK"></span>
 
-![简中_介绍](https://raw.githubusercontent.com/liulipack/Fonts/main/imgs/Noto%20Sans%20CJK%20SC_Intro.png)
-![繁中_介紹](https://raw.githubusercontent.com/liulipack/Fonts/main/imgs/Noto%20Sans%20CJK%20TC_Intro.png)
-![简中_等宽_介绍](https://raw.githubusercontent.com/liulipack/Fonts/main/imgs/Noto%20Sans%20Mono%20CJK%20SC_Intro.png)
-![繁中_等宽_介紹](https://raw.githubusercontent.com/liulipack/Fonts/main/imgs/Noto%20Sans%20Mono%20CJK%20TC_Intro.png)
-![简中_设计](https://raw.githubusercontent.com/liulipack/Fonts/main/imgs/Noto%20Sans%20CJK%20SC_Design.png)
+![简中_介绍](imgs/Noto%20Sans%20CJK%20SC_Intro.png)
+![繁中_介紹](imgs/Noto%20Sans%20CJK%20TC_Intro.png)
+![简中_等宽_介绍](imgs/Noto%20Sans%20Mono%20CJK%20SC_Intro.png)
+![繁中_等宽_介紹](imgs/Noto%20Sans%20Mono%20CJK%20TC_Intro.png)
+![简中_设计](imgs/Noto%20Sans%20CJK%20SC_Design.png)
 
 由谷歌推出的无虚缺字系列字体的黑体部分。
 
@@ -60,9 +60,9 @@ Google | [Noto Sans CJK / 无虚缺字宋体统一码](#Noto_Serif_CJK) | 宋体
 
 ## Noto Serif CJK / 无虚缺字宋体统一码<span id="Noto_Serif_CJK"></span>
 
-![简中_介绍](https://raw.githubusercontent.com/liulipack/Fonts/main/imgs/Noto%20Serif%20CJK%20SC_Intro.png)
-![繁中_介紹](https://raw.githubusercontent.com/liulipack/Fonts/main/imgs/Noto%20Serif%20CJK%20TC_Intro.png)
-![简中_设计](https://raw.githubusercontent.com/liulipack/Fonts/main/imgs/Noto%20Serif%20CJK%20SC_Design.png)
+![简中_介绍](imgs/Noto%20Serif%20CJK%20SC_Intro.png)
+![繁中_介紹](imgs/Noto%20Serif%20CJK%20TC_Intro.png)
+![简中_设计](imgs/Noto%20Serif%20CJK%20SC_Design.png)
 
 由谷歌推出的无虚缺字系列字体的宋体部分。
 
@@ -72,9 +72,9 @@ Google | [Noto Sans CJK / 无虚缺字宋体统一码](#Noto_Serif_CJK) | 宋体
 
 ## Xiaolai / 小赖字体<span id="Xiaolai"></span>
 
-![简中_介绍](https://raw.githubusercontent.com/liulipack/Fonts/main/imgs/Xiaolai%20Mono%20SC_Intro.png)
-![简中_等宽_介绍](https://raw.githubusercontent.com/liulipack/Fonts/main/imgs/Xiaolai%20Mono%20SC_Intro.png)
-![字体设计](https://raw.githubusercontent.com/liulipack/Fonts/main/imgs/Xiaolai%20SC_Design.png)
+![简中_介绍](imgs/Xiaolai%20Mono%20SC_Intro.png)
+![简中_等宽_介绍](imgs/Xiaolai%20Mono%20SC_Intro.png)
+![字体设计](imgs/Xiaolai%20SC_Design.png)
 
 它基于内海字体与濑户字体，目的是适配简体中文。
 
@@ -82,9 +82,9 @@ Google | [Noto Sans CJK / 无虚缺字宋体统一码](#Noto_Serif_CJK) | 宋体
 
 ## LXGW WenKai / 霞鹜文楷<span id="LXGW_WenKai"></span>
 
-![简中_介绍](https://raw.githubusercontent.com/liulipack/Fonts/main/imgs/LXGW%20WenKai_Intro.png)
-![简中_等宽_介绍](https://raw.githubusercontent.com/liulipack/Fonts/main/imgs/LXGW%20WenKai%20Mono_Intro.png)
-![字体设计](https://raw.githubusercontent.com/liulipack/Fonts/main/imgs/LXGW%20WenKai_Design.png)
+![简中_介绍](imgs/LXGW%20WenKai_Intro.png)
+![简中_等宽_介绍](imgs/LXGW%20WenKai%20Mono_Intro.png)
+![字体设计](imgs/LXGW%20WenKai_Design.png)
 
 它基于繁体中文字体内海字体与日文字体濑户字体，目的是适配简体中文。
 
@@ -92,9 +92,9 @@ Google | [Noto Sans CJK / 无虚缺字宋体统一码](#Noto_Serif_CJK) | 宋体
 
 ## Swei Gothic / 狮尾圆体<span id="Swei_Gothic"></span>
 
-![简中_介绍](https://raw.githubusercontent.com/liulipack/Fonts/main/imgs/Swei%20Gothic%20CJK%20SC_Intro.png)
-![繁中_介紹](https://raw.githubusercontent.com/liulipack/Fonts/main/imgs/Swei%20Gothic%20CJK%20TC_Intro.png)
-![字体设计](https://raw.githubusercontent.com/liulipack/Fonts/main/imgs/Swei%20Gothic%20CJK%20SC_Design.png)
+![简中_介绍](imgs/Swei%20Gothic%20CJK%20SC_Intro.png)
+![繁中_介紹](imgs/Swei%20Gothic%20CJK%20TC_Intro.png)
+![字体设计](imgs/Swei%20Gothic%20CJK%20SC_Design.png)
 
 它基于思源黑体，对其进行的拔脚和加圆改造。适配简体中文、繁体中文、韩文与日文。
 
@@ -102,8 +102,8 @@ Google | [Noto Sans CJK / 无虚缺字宋体统一码](#Noto_Serif_CJK) | 宋体
 
 ## Naikai Font / 内海字体<span id="Naikai_Font"></span>
 
-![繁中_介紹](https://raw.githubusercontent.com/liulipack/Fonts/main/imgs/Naikai%20Font_Intro.png)
-![字体设计](https://raw.githubusercontent.com/liulipack/Fonts/main/imgs/Naikai%20Font_Design.png)
+![繁中_介紹](imgs/Naikai%20Font_Intro.png)
+![字体设计](imgs/Naikai%20Font_Design.png)
 
 它基于濑户字体，对其进行的繁体中文适配。
 
