@@ -70,6 +70,7 @@ Google | [Noto Sans CJK / 无虚缺字宋体统一码](#Noto_Serif_CJK) | 7 | SI
 由谷歌推出的无虚缺字系列字体的宋体部分。
 
 **获取**
+
 简体中文 https://www.google.com/get/noto/#serif-hans  
 繁體中文 https://www.google.com/get/noto/#serif-hant
 
