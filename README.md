@@ -10,7 +10,7 @@
 字重-200 | 极轻 | Extra-Light / Ultra-Light
 字重-300 | 轻 | Light
 字重-350 | 半轻 | Demi-Light
-字重-400 | 普 | Regula
+字重-400 | 普 | Regular
 字重-500 | 中 | Medium
 字重-600 | 半粗 | Demi-Bold / Semi-Bold
 字重-700 | 粗 | Bold
