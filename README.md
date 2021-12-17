@@ -32,7 +32,7 @@
 
 ## 字体清单
 
-创作者 | 字体名 | 字重及比例数 | 授权协议 | 涵盖字体集 | 写法适配
+发布团队或作者 | 字体名 | 字重及比例数 | 授权协议 | 涵盖字体集 | 写法适配
 | - | - | - | - | - | -
 Google | [Noto CJK / 无虚缺字统一码](#Noto_CJK) | 9 | [SIL Open Font License 1.1](https://github.com/googlefonts/noto-cjk/blob/main/LICENSE) | GBK 100% | 简中、香港地区繁中、台湾地区繁中、日、韩。
 
