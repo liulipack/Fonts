@@ -7,7 +7,7 @@
 描述 | 原文 | 译文 | 描述
 | - | - | - | -
 字重-100 | 纤 | Thin / Hairline / ExtraLight
-字重-200 | 极纤 | Extra-Light / Ultra-Light
+字重-200 | 极轻 | Extra-Light / Ultra-Light
 字重-300 | 轻 | Light
 字重-350 | 半轻 | Demi-Light
 字重-400 | 普 | Regula
@@ -18,6 +18,42 @@
 字重-900 | 重 | Black / Heavy
 字重-950 | 超重 | Extra-Black / Ultra-Black
 比例 | 等宽 | Mono
+
+## 图片排版
+
+描述 | 位置 | 配色(高饱和, 低饱和) | 不透明度 | 字号 | 字重 | 备注
+| - | - | - | - | - | - | -
+介绍-字体名 | 距离左上角横向偏移 32px，纵向偏移 48px。 | #fff, #000 | 100% | 64px | Regular | -
+介绍-字体调用名 | 放置在字体名后括号内 | #fff, #000 | 100% | 48px | Regular | -
+介绍-字重 | 距离左上角横向偏移 40px，纵向偏移 128px。 | ~ | 100% | 48px | 根据字重选择 | 如只有一种字重可隐藏。
+介绍-参数 | 右下角向内各偏移 16px | ~ | ~ | 36px | Regular | 字符集覆盖采用`GBK [百分比]%(Big5 [百分比]%)`形式书写。如果涵盖 100% 的 GBK 字符集则无需书写上述格式括号中内容。
+设计-上半 | 从下往上 604px(540+64) | ~ | ~ | 150px | Regular | -
+设计-下半 | 从上往下 604px | ~ | ~ | ~ | ~ | -
+
+## 字体清单
+
+创作者 | 字体名 | 字重及比例数 | 授权协议 | 涵盖字体集 | 写法适配
+| - | - | - | - | - | -
+Google | [Noto CJK / 无虚缺字统一码](#Noto_CJK) | 9 | [SIL Open Font License 1.1](https://github.com/googlefonts/noto-cjk/blob/main/LICENSE) | GBK 100% | 简中、香港地区繁中、台湾地区繁中、日、韩。
+
+待续...
+
+# 字体展示
+
+# Noto CJK Family / 无虚缺字统一码系列<span id="Noto_CJK"></span>
+
+![无虚缺字黑体等宽统一码中国大陆地区写法](https://raw.githubusercontent.com/liulipack/Fonts/main/imgs/Noto%20Sans%20Mono%20CJK%20SC.png)  
+![無虛缺字黑體等寬統一碼中國香港地區寫法](https://raw.githubusercontent.com/liulipack/Fonts/main/imgs/Noto%20Sans%20Mono%20CJK%20HK.png)  
+![無虛缺字黑體等寬統一碼中國台灣地區寫法](https://raw.githubusercontent.com/liulipack/Fonts/main/imgs/Noto%20Sans%20Mono%20CJK%20TC.png)  
+![无虚缺字黑体统一码中国大陆地区写法](https://raw.githubusercontent.com/liulipack/Fonts/main/imgs/Noto%20Sans%20CJK%20SC.png)  
+![無虛缺字黑體統一碼中國香港地區寫法](https://raw.githubusercontent.com/liulipack/Fonts/main/imgs/Noto%20Sans%20CJK%20HK.png)  
+![無虛缺字黑體統一碼中國台灣地區寫法](https://raw.githubusercontent.com/liulipack/Fonts/main/imgs/Noto%20Sans%20CJK%20TC.png)  
+![无虚缺字宋体统一码中国大陆地区写法](https://raw.githubusercontent.com/liulipack/Fonts/main/imgs/Noto%20Serif%20CJK%20SC.png)  
+![無虛缺字宋體統一碼中國台灣地區寫法](https://raw.githubusercontent.com/liulipack/Fonts/main/imgs/Noto%20Serif%20CJK%20TC.png)
+
+旧数据
+---
+
 
 ## 字体
 
@@ -32,17 +68,6 @@ Google | [Noto Sans CJK / 无虚缺字宋体统一码](#Noto_Serif_CJK) | 7 | SI
 [timothyqiu](https://space.bilibili.com/7092) | [凤凰点阵体](#Vonwaon_Bitmap) | 2 | CC0 1.0 | GBK 32.32%(Big5 33.57%) | 简中。
 [白无常C4D](https://space.bilibili.com/350163892) | [白无常可可体](#BaiWuChang-KeKeTi) | 3 | 支付宝公益捐赠1元商用 | GBK 32.32%(Big5 33.57%) | 简中。
 [苍耳字库](http://tsanger.cn) | [仓耳渔阳体](#TsangerYuYangT) | 5 | [自建授权](http://tsanger.cn/仓耳字库免费商用字体授权声明.pdf)。免费商用；任何状况不可单独售卖；不得用于违法用途。 | GBK 32.32%(Big5 33.57%) | 简中。
-
-## 图片排版
-
-描述 | 位置 | 配色(高饱和, 低饱和) | 不透明度 | 字号 | 字重 | 备注
-| - | - | - | - | - | - | -
-介绍-字体名-中文 | 从下往上 572px(540+32) | #fff, #000 | 100%, 87% | 116px | Regular | -
-介绍-字体名-英文 | ~ | ~ | ~ | 76px | Light | -
-介绍-字重 | 从上往下 572px | ~ | 54% | 126px | 根据字重选择 | 如只有一种字重可隐藏，并将字体名完全居中。
-介绍-参数 | 右下角向内各偏移 16px | ~ | ~ | 34px | Regular | 字符集覆盖采用`GBK [百分比]%(Big5 [百分比]%)`形式书写。如果涵盖 100% 的 GBK 字符集则无需书写上述格式括号中内容。
-设计-上半 | 从下往上 604px(540+64) | ~ | ~ | 150px | Regular | -
-设计-下半 | 从上往下 604px | ~ | ~ | ~ | ~ | -
 
 # 介绍
 
