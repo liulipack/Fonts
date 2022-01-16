@@ -51,7 +51,7 @@ GPLv3 授权 | GNU General Public License Version 3.0 | -
 仓耳字库 | 仓耳与墨(TsangerYuMo) | 5 | [自建可商用授权](http://tsanger.cn/仓耳字库免费商用字体授权声明.pdf) | 32.22%(6763) | 中国大陆地区 | [下载](http://tsanger.cn/category/115?page=1) [预览](Tsanger)
 仓耳字库 | 仓耳舒圆体(TsangerShuYuanT) | 5 | [自建可商用授权](http://tsanger.cn/仓耳字库免费商用字体授权声明.pdf) | 32.22%(6763) | 中国大陆地区 | [下载](http://tsanger.cn/category/115) [预览](Tsanger)
 仓耳字库 | 仓耳非白(TsangerFeibai) | 5 | [自建可商用授权](http://tsanger.cn/仓耳字库免费商用字体授权声明.pdf) | 32.22%(6763) | 中国大陆地区 | [下载](http://tsanger.cn/category/115) [预览](#Tsanger)
-文泉驿、理查德·斯托曼及多位贡献者 | GUN 统一码字体(Unifont) | 1 | [GPLv3](https://unifoundry.com/LICENSE.txt) 加 [OFL 1.1](http://unifoundry.com/OFL-1.1.txt) | 100.01%(20992) | 中国大陆地区 | [下载](https://unifoundry.com/unifont) [预览](#GUNUnifont)
+文泉驿、理查德·斯托曼及多位贡献者 | GNU 统一码字体(Unifont) | 1 | [GPLv3](https://unifoundry.com/LICENSE.txt) 加 [OFL 1.1](http://unifoundry.com/OFL-1.1.txt) | 100.01%(20992) | 中国大陆地区 | [下载](https://unifoundry.com/unifont) [预览](#GNUUnifont)
 
 待续...
 
@@ -82,6 +82,6 @@ GPLv3 授权 | GNU General Public License Version 3.0 | -
 ![仓耳渔阳体](https://raw.githubusercontent.com/liulipack/Fonts/main/imgs/TsangerYuYangT.png)  
 ![仓耳与墨](https://raw.githubusercontent.com/liulipack/Fonts/main/imgs/TsangerYuMo.png)
 
-## GUN Unifont / GUN 统一码字体<span id="GUNUnifont"></span>
+## GNU Unifont / GNU 统一码字体<span id="GNUUnifont"></span>
 
-![GUN Unifont](https://raw.githubusercontent.com/liulipack/Fonts/main/imgs/GNU%20Unifont.png)
+![GNU Unifont](https://raw.githubusercontent.com/liulipack/Fonts/main/imgs/GNU%20Unifont.png)
